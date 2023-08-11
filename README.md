@@ -15,3 +15,10 @@ Server : WAMP
 4. Create Database loginregisterdb and import tables "users" and "contacts"
 5. Go to browser and type "localhost" to run the Wamp server
 6. type localhost/extracted folder ----> the project will start to run.
+
+# Demo Picutres
+
+![WhatsApp Image 2023-08-11 at 19 15 47](https://github.com/P766-spec/Bicylce_test_drive/assets/90417642/f1c87350-58d9-49be-909b-b6bedeb32995)
+
+
+
